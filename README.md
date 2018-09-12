@@ -1,5 +1,6 @@
 # UNREAL_TUTORIAL_4
 Player Input and Pawns
+https://docs.unrealengine.com/en-us/Programming/Tutorials/PlayerInput
 
 ## What I learned
 I learned how to add player control to pawns from C++ code, how binding works to the player input in project settings, and how code in the constructor is handled (it's run when the object is placed in the scene, not when the game is run)
